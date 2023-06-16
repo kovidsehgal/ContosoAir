@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/AppInnovation-31797751/PartsUnlimited/_apis/build/status%2Fkovidsehgal.ContosoAir?branchName=master)](https://dev.azure.com/AppInnovation-31797751/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
 
 
 # Microsoft.Github CI Demo
